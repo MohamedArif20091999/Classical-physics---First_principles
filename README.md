@@ -1,3 +1,3 @@
 # Classical-physics---First_principles
 
-### 1. Six easy peices by Richard Feynman.
+### 1. Six easy pieces by Richard Feynman.
